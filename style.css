@@ -1,4 +1,35 @@
-h1{
-    font-size: large;
+/*basic shit*/
+body{
+    background-color: rgb(48, 55, 61);
+}
+
+p{
     font-family: 'Montserrat', sans-serif;
 }
+
+/*h1-h6*/
+h1{
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif;
+}
+
